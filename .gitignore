@@ -1,0 +1,5 @@
+build/
+dusklight/
+*.dusk
+.vs/
+.vscode/
