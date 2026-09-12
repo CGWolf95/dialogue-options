@@ -15,3 +15,5 @@ Version 1.0.0
 ### Dialogue Choices
 - Scale: 25%–150%
 - Opacity: 0%–100%
+
+#### Scaling the Dialogue Box to 70% seems to be the closest match to HD's dialogue text size.
