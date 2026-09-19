@@ -1,7 +1,7 @@
 {
   "id": "com.cgwolf.dialogue_options",
   "name": "Dialogue Options",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "CGWolf",
   "description": "Customize the size and opacity of the dialogue box and dialogue choices.",
   "icon": "res/icon.png",
