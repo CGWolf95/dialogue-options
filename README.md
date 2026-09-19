@@ -4,7 +4,7 @@ Customize the size and opacity of the dialogue box and dialogue choices.
 
 ## Status
 
-Version 1.0.0
+Version 1.0.1
 
 ## Settings
 

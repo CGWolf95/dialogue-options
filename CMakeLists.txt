@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.26)
 project(dusklight_dialogue_options CXX)
 
 if (NOT DUSKLIGHT_VERSION)
-    set(DUSKLIGHT_VERSION "d281c34a65568ee7be2319985f3a290c0ef65abc")
+    set(DUSKLIGHT_VERSION "v2.0.0")
 endif ()
 
 include("${CMAKE_CURRENT_SOURCE_DIR}/cmake/FetchDusklight.cmake")
